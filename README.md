@@ -1,5 +1,3 @@
-# Wrexham
-WREXHAM DASH EXPRESS
 <!DOCTYPE html>
 <html lang="en">
 <head>
